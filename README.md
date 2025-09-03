@@ -11,14 +11,14 @@ Features
 - Full drill bit equivalence table with scroll and search functionality.
 - Automatic conversion between fractions, decimal inches, and millimeters.
 - Cross-platform: works on Windows, Linux, and Mac (Python).
-- Windows users can generate a standalone .exe file.
+- Windows users can download a standalone executable.
 
 ---
 
 Installation
 
 1. Clone the repository or download the files:
-   git clone https://github.com/yourusername/DrillBitConverter.git
+   git clone https://github.com/nectzz/DrillBitConverter.git
 2. Navigate to the project folder:
    cd DrillBitConverter
 3. Install dependencies:
@@ -29,23 +29,26 @@ Installation
 Usage
 
 Run the application:
-   python main.py
+   python app.py
 
 Optional: Create a Windows executable with PyInstaller:
-   pyinstaller --onefile main.py
+   pyinstaller --onefile app.py
 
 ---
 
 Download Windows Executable
 
-The latest Windows executable is available on the Releases page:
-https://github.com/yourusername/DrillBitConverter/releases
+The latest Windows executable can be downloaded from the Releases page:
+https://github.com/nectzz/DrillBitConverter/releases
+File name: DrillBitConverter.exe
 
 ---
 
 Screenshots
 
-(Optional: Add screenshots here to showcase the application interface.)
+<img width="498" height="530" alt="image" src="https://github.com/user-attachments/assets/d307c179-ea3f-4607-85cd-dfcf8d707f31" />
+
+<img width="550" height="603" alt="image" src="https://github.com/user-attachments/assets/7a62049e-3f32-4679-859a-e9b2ed8d33a1" />
 
 ---
 
